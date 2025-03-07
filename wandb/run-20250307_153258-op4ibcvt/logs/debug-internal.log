@@ -1,0 +1,15 @@
+{"time":"2025-03-07T15:32:58.289568228+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/keerthana/dl/a1/wandb/run-20250307_153258-op4ibcvt/logs/debug-core.log"}
+{"time":"2025-03-07T15:32:58.430053242+05:30","level":"INFO","msg":"created new stream","id":"op4ibcvt"}
+{"time":"2025-03-07T15:32:58.430104542+05:30","level":"INFO","msg":"stream: started","id":"op4ibcvt"}
+{"time":"2025-03-07T15:32:58.430145542+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"op4ibcvt"}
+{"time":"2025-03-07T15:32:58.430179942+05:30","level":"INFO","msg":"sender: started","stream_id":"op4ibcvt"}
+{"time":"2025-03-07T15:32:58.430207942+05:30","level":"INFO","msg":"handler: started","stream_id":"op4ibcvt"}
+{"time":"2025-03-07T15:32:58.873787487+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-07T15:32:58.952708195+05:30","level":"INFO","msg":"stream: closing","id":"op4ibcvt"}
+{"time":"2025-03-07T15:32:58.953119895+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-07T15:32:58.953765595+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-07T15:33:00.654719467+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-07T15:33:00.9731997+05:30","level":"INFO","msg":"handler: closed","stream_id":"op4ibcvt"}
+{"time":"2025-03-07T15:33:00.9732495+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"op4ibcvt"}
+{"time":"2025-03-07T15:33:00.9733081+05:30","level":"INFO","msg":"sender: closed","stream_id":"op4ibcvt"}
+{"time":"2025-03-07T15:33:00.9734334+05:30","level":"INFO","msg":"stream: closed","id":"op4ibcvt"}

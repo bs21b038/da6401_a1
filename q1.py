@@ -1,3 +1,4 @@
+#used env_tf to run the scripts >> requirements.txt
 import numpy as np
 import pandas as pd
 from keras.datasets import fashion_mnist
