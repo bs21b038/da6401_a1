@@ -12,5 +12,10 @@ wandb_integrate.py file contains the code
 
 q2.py file contains the code to engineer data to stablize the feedforward network model by normalizing the image data and by converting the labels to one hot vectors.
 
+Link for github repo:
+https://github.com/bs21b038/da6401_a1/tree/task1
+
+
+
 
 
