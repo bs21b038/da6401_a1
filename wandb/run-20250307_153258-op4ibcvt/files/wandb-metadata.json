@@ -1,0 +1,31 @@
+{
+  "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.29",
+  "python": "CPython 3.8.10",
+  "startedAt": "2025-03-07T10:02:58.285845Z",
+  "program": "/home/keerthana/dl/a1/wandb_integrate.py",
+  "codePath": "wandb_integrate.py",
+  "git": {
+    "remote": "https://github.com/bs21b038/da6401_a1.git",
+    "commit": "3bae850754a76c25c235f1023361fdfc33808820"
+  },
+  "email": "bs21b038@smail.iitm.ac.in",
+  "root": "/home/keerthana/dl/a1",
+  "host": "DESKTOP-5FUCTLV",
+  "executable": "/home/keerthana/dl/a1/wandb_env/bin/python",
+  "codePathLocal": "wandb_integrate.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "269427478528",
+      "used": "13178658816"
+    }
+  },
+  "memory": {
+    "total": "8266997760"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
